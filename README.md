@@ -7,7 +7,7 @@ An all-in automatic and simple tool that automatically unlocks DLCs in **Ready o
 ## 🔗 Latest Release of Ready or Not DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Ready-or-Not-DLCUnlocker/.github/releases)
 
 ---
 
